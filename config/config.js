@@ -1,0 +1,1 @@
+module.exports.SEED = 'Js9\HYym0k:a@zsTS/hos'
